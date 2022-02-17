@@ -1,0 +1,6 @@
+$color-white: #fff;
+$color-black: #000;
+$color-primary: #DB694F;
+$color-secundary: #5F3BF5;
+$color-terciary: #36EB93;
+$color-cuarternary: #F5EB61;
